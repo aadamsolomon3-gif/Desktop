@@ -13,6 +13,7 @@ declare -A apps=(
     [4]="Steam - steam/install-steam.sh"
     [5]="Discord - discord/install-discord.sh"
     [6]="Kate - kate/install-kate.sh"
+    [7]="Firewall - firewall/install-firewall.sh"
 )
 
 # Show options
