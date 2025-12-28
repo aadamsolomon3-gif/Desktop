@@ -19,4 +19,4 @@ EOF
 # Save the function permanently
 fish -c "funcsave cd"
 
-echo "✅ Fish cd override installed! 'cd' will now automatically list directory contents."
+echo "Fish cd override installed! 'cd' will now automatically list directory contents."

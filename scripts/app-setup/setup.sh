@@ -15,6 +15,7 @@ declare -A apps=(
     [6]="Kate - kate/install-kate.sh"
     [7]="Firewall - firewall/install-firewall.sh"
     [8]="Ventoy - ventoy/install-ventoy.sh"
+    [8]="Ark and Context Menu service - ark/install-ark.sh"
 )
 
 # Show options
